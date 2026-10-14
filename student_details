@@ -1,0 +1,8 @@
+Alice alice-cool_123@example.com 9876543210
+Carol carol_123@example.com 1234567890
+John john.dan.12345@example.com 9999999999
+
+Invalid emails are:
+-@example.com
+_123abc@example.com
+_123abc@example.edu-com
